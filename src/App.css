@@ -1,0 +1,215 @@
+.app{
+  /* background-image: linear-gradient(rgb(16, 20, 82), rgb(1, 1, 41)); */
+  background-color: rgb(16, 20, 82);
+  height: 800px;
+  padding-top: 0px;
+  display: flex;
+  justify-content: center;
+}
+.table-container{
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  margin:auto;
+}
+table{
+  height: auto;
+  width: auto;
+  margin: auto;
+}
+th,td,tr{
+  margin: auto;
+  /* border: 1px solid grey; */
+  background-color:whitesmoke;
+  text-align: center;
+  padding: 5px;
+}
+th{
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  font-size: x-large;
+  font-weight: normal;
+}
+
+
+.brand{
+  color: yellow;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.nav{
+  width: 100%;
+  height: 50px;
+  margin: 0%;
+  display: flex;
+  background-color: rgb(30, 52, 173);
+  position: fixed;
+}
+li{
+  list-style-type: none;
+  float: left;
+  color: white;
+  margin: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 12px;
+}
+
+.green-efficiency-button{
+  /* background-color: green; */
+  background-image: radial-gradient(lightgreen, green);
+  height: 30px;
+  width:30px;
+  border-radius: 50%;
+  margin: auto;
+}
+
+.red-efficiency-button{
+  /* background-color: red; */
+  background-image: radial-gradient(rgb(247, 113, 113), red);
+  height: 30px;
+  width:30px;
+  border-radius: 50%;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  opacity: 0.5;
+}
+
+.pagination{
+  width: 100px;
+  height: 40px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  float: right;
+  padding: 10px 0px 0px 10px;
+}
+
+.decision-pagination{
+  padding-top: 70px;
+  float: right;
+  padding-right: 20px;
+}
+
+.decision-color{
+  font-weight: bolder;
+  background-color: teal;
+  padding: auto;
+}
+
+#outer-most{
+  background-color:white;
+  width:55px;
+  height:55px;
+  position:fixed;
+  top:97.5px;
+  border-radius:50%;
+  left: 47.5px;
+}
+#outer{
+  background-color:white;
+  width:50px;
+  height:50px;
+  position:fixed;
+  top:100px;
+  border-radius:50%;
+  left:50px;
+}
+#vert{
+  width:10%;
+  height:100%;
+  margin-left:45%;
+  position:absolute;
+  top:0;
+  background-color:rgb(16, 20, 82);
+}
+#horiz{
+  width:100%;
+  height:10%;
+  margin-top:45%;
+  background-color:rgb(16, 20, 82);
+}
+
+.addrequest-form{
+height: 600px;
+width: 500px;
+color: black;
+background-color: whitesmoke;
+margin: auto;
+padding: 30px;
+/* overflow-y: scroll; */
+border-radius: 20px;
+}
+
+.approvers{
+  width: 200px;
+  height: 220px;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  display: inline-block;
+}
+
+.submit-btn{
+  margin-top: 50px;
+  margin-left: 100px;
+  width: auto;
+  height: 40px;
+  background-color: rgb(10, 10, 56);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: large;
+}
+h2{
+  margin: 10px;
+  margin-left: 0px;
+  color:rgb(10, 10, 56);
+}
+
+.emptyPage{
+  margin: auto;
+}
+label{
+  font-weight:bold;
+}
+
+.del-button{
+  font-weight:bolder; 
+  background-color:red;
+  padding:0px;
+  float:right;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.actionComponent{
+  height: 600px;
+width: 500px;
+color: black;
+background-color: whitesmoke;
+margin: auto;
+padding: 30px;
+/* overflow-y: scroll; */
+border-radius: 20px;
+margin-top: 100px;
+}
+
+.approverCard{
+  width:100px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: burlywood;
+  margin: 10px;
+  display: inline-block;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.actionComponent td{
+  text-align: left;
+}

@@ -1,0 +1,28 @@
+
+.login-container{
+    padding-top: 200px;
+}
+
+.login-card{
+    width: 500px;
+    height: 350px;
+    background-color: whitesmoke;
+    margin: auto;
+    /* margin-top: 50px; */
+    border-radius: 20px;
+  }
+  .login-user{
+    padding-left: 150px;
+    padding-top: 50px;
+  }
+  .login-btn{
+    margin-left: 250px;
+    width: 70px;
+    height: 40px;
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: large;
+    margin-top: 50px;
+  }

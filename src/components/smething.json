@@ -1,0 +1,329 @@
+{
+    "status": true,
+    "query_info": [
+        {
+            "addInfoget": "somethimg need to wirte",
+            "approver": "1",
+            "name": "WELCOME GUEST"
+        },
+        {
+            "addInfoget": "somethimg need to wirte",
+            "approver": "3",
+            "name": "Ram"
+        },
+        {
+            "addInfoget": "somethimg need to wirte",
+            "approver": "4",
+            "name": "Raj"
+        },
+        {
+            "addInfoget": null,
+            "approver": "5",
+            "name": "HR-VP"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "6",
+            "name": "PR-VP"
+        },
+        {
+            "addInfoget": null,
+            "approver": "7",
+            "name": "FN-VP"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "8",
+            "name": "MS-VP"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "9",
+            "name": "VCEO"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "10",
+            "name": "Deva"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "11",
+            "name": "Bala"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "13",
+            "name": "Tester2"
+        },
+        {
+            "addInfoget": "now its completed",
+            "approver": "12",
+            "name": "Tester1"
+        },
+        {
+            "addInfoget": null,
+            "approver": "14",
+            "name": "Tester3"
+        },
+        {
+            "addInfoget": "please tell some clear information",
+            "approver": "15",
+            "name": "Tester4"
+        },
+        {
+            "addInfoget": "please tell some clear information",
+            "approver": "16",
+            "name": "Tester5"
+        },
+        {
+            "addInfoget": "please tell some clear information",
+            "approver": "17",
+            "name": "Coder1"
+        }
+    ],
+    "description": [
+        {
+            "description": "Would you recommend our product1 to your friends or social circle?"
+        }
+    ],
+    "queryinfoname": [
+        {
+            "name": "Arun"
+        }
+    ]
+}
+
+
+
+{
+    "status": true,
+    "query_info": [
+        {
+            "addInfoget": null,
+            "approver": "1",
+            "name": "WELCOME GUEST"
+        },
+        {
+            "addInfoget": null,
+            "approver": "3",
+            "name": "Ram"
+        },
+        {
+            "addInfoget": null,
+            "approver": "4",
+            "name": "Raj"
+        },
+        {
+            "addInfoget": null,
+            "approver": "5",
+            "name": "HR-VP"
+        }
+    ],
+    "description": [
+        {
+            "description": "What qualities of the customer service representative that you did not like?"
+        }
+    ],
+    "queryinfoname": [
+        {
+            "name": "Arun"
+        }
+    ]
+}
+
+
+{
+    "status": true,
+    "approvals": [
+        {
+            "approval_id": "93",
+            "query_id": "19",
+            "approver": "1",
+            "requested_date": "2019-03-27 00:00:00",
+            "target_date": "2019-04-10",
+            "type": "Original",
+            "status": "Approved",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": null,
+            "decision_date": "2019-03-31 11:27:44",
+            "requester": "2",
+            "efficiency_myapproval": "green",
+            "status_myapproval": "close",
+            "emp_name": "Arun",
+            "addInfoget": null,
+            "description": "What qualities of the customer service representative that you did not like?",
+            "request_date": "2019-03-27",
+            "approver_name": "WELCOME GUEST"
+        },
+        {
+            "approval_id": "94",
+            "query_id": "19",
+            "approver": "3",
+            "requested_date": "2019-03-27 00:00:00",
+            "target_date": "2019-04-10",
+            "type": "Original",
+            "status": "Approved",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": null,
+            "decision_date": "2019-06-21 12:46:53",
+            "requester": "2",
+            "efficiency_myapproval": "red",
+            "status_myapproval": "close",
+            "emp_name": "Arun",
+            "addInfoget": null,
+            "description": "What qualities of the customer service representative that you did not like?",
+            "request_date": "2019-03-27",
+            "approver_name": "Ram"
+        },
+        {
+            "approval_id": "95",
+            "query_id": "19",
+            "approver": "4",
+            "requested_date": "2019-03-27 00:00:00",
+            "target_date": "2019-04-10",
+            "type": "Original",
+            "status": "Rejected",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": null,
+            "decision_date": "2019-06-21 12:33:09",
+            "requester": "2",
+            "efficiency_myapproval": "red",
+            "status_myapproval": "close",
+            "emp_name": "Arun",
+            "addInfoget": null,
+            "description": "What qualities of the customer service representative that you did not like?",
+            "request_date": "2019-03-27",
+            "approver_name": "Raj"
+        },
+        {
+            "approval_id": "96",
+            "query_id": "19",
+            "approver": "5",
+            "requested_date": "2019-03-27 00:00:00",
+            "target_date": "2019-04-10",
+            "type": "Original",
+            "status": "Approved",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": null,
+            "decision_date": "2019-06-21 12:55:46",
+            "requester": "2",
+            "efficiency_myapproval": "red",
+            "status_myapproval": "close",
+            "emp_name": "Arun",
+            "addInfoget": null,
+            "description": "What qualities of the customer service representative that you did not like?",
+            "request_date": "2019-03-27",
+            "approver_name": "HR-VP"
+        }
+    ]
+}
+
+
+{
+    "status": true,
+    "approvals": [
+        {
+            "approval_id": "918",
+            "query_id": "273",
+            "approver": "4",
+            "requested_date": "0000-00-00 00:00:00",
+            "target_date": "2021-11-05",
+            "type": "Original",
+            "status": "Pending",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": null,
+            "decision_date": null,
+            "requester": "3",
+            "efficiency_myapproval": "green",
+            "status_myapproval": "open",
+            "emp_name": "Ram",
+            "addInfoget": null,
+            "description": "sample demo",
+            "request_date": "0000-00-00",
+            "approver_name": "Raj"
+        },
+        {
+            "approval_id": "919",
+            "query_id": "273",
+            "approver": "10",
+            "requested_date": "0000-00-00 00:00:00",
+            "target_date": "2021-11-05",
+            "type": "Original",
+            "status": "Transferred",
+            "transferred_to": null,
+            "transferred_one": "1",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": null,
+            "transferred_date": "2021-10-30 06:20:38",
+            "decision_date": "2021-10-30 06:20:38",
+            "requester": "3",
+            "efficiency_myapproval": "green",
+            "status_myapproval": "open",
+            "emp_name": "Ram",
+            "addInfoget": null,
+            "description": "sample demo",
+            "request_date": "0000-00-00",
+            "approver_name": "Deva"
+        },
+        {
+            "approval_id": "935",
+            "query_id": "273",
+            "approver": "1",
+            "requested_date": "2021-10-30 06:20:38",
+            "target_date": "2021-11-05",
+            "type": "Transferred",
+            "status": "Pending",
+            "transferred_to": null,
+            "transferred_one": "0",
+            "transferred_two": "0",
+            "transferred_three": "0",
+            "transferred_four": "0",
+            "transferred_five": "0",
+            "transferred_from": "10",
+            "transferred_date": "2021-10-30 06:20:38",
+            "decision_date": null,
+            "requester": "3",
+            "efficiency_myapproval": "green",
+            "status_myapproval": "open",
+            "emp_name": "Deva",
+            "addInfoget": null,
+            "description": "sample demo",
+            "request_date": "0000-00-00",
+            "approver_name": "WELCOME GUEST"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+BASE_URL_PATH = "http://vnovushome.in/vnovus/api/"
+BASE_URL_PATH + "employee/employee_tree"
+BASE_URL_PATH + "employee/all_employees"; ///employee details
+addRequestUrl=BASE_URL_PATH + "queries/add_query/format/json"; //adding request
+updateUrl=BASE_URL_PATH + "approval/update_approval/format/json" //taking decision
+transferApproval=BASE_URL_PATH + "/approval/transfer_approval/format/json";
+String statusUrl = BASE_URL_PATH + "approval/get_approval_list/format/json";
+String addLogin = BASE_URL_PATH + "employee/login/format/json";
+String url = BASE_URL_PATH + "approval/my_approval_list";   //My Decision
+String url = BASE_URL_PATH + "queries/query_by_userid";   //My Request
+String url = BASE_URL_PATH + "approval/query_info";
+String req = BASE_URL_PATH + "employee/sixmonth_status";
+
